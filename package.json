@@ -1,0 +1,16 @@
+{
+  "name": "@playgroundxyz/keen-serve-rate",
+  "version": "1.0.0",
+  "description": "## Description",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "browser-sync start --server --files \"index.html\" \"css/**/*.css\" \"js/**/*.js\""
+  },
+  "author": "",
+  "license": "ISC",
+  "private": true,
+  "devDependencies": {
+    "browser-sync": "^2.18.12"
+  }
+}
